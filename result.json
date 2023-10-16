@@ -1,0 +1,242 @@
+[
+    {
+        "backend": "cairo",
+        "seed": 20,
+        "expval": -78.70870653629866,
+        "metric": 99.9410990978365,
+        "duration": 2784,
+        "shot": 1799984
+    },
+    {
+        "backend": "cairo",
+        "seed": 21,
+        "expval": -78.70870681948914,
+        "metric": 99.94109947853462,
+        "duration": 2784,
+        "shot": 1799984
+    },
+    {
+        "backend": "cairo",
+        "seed": 30,
+        "expval": -78.70877519518886,
+        "metric": 99.94119139723719,
+        "duration": 2880,
+        "shot": 1799984
+    },
+    {
+        "backend": "cairo",
+        "seed": 33,
+        "expval": -78.70877793710113,
+        "metric": 99.94119508323995,
+        "duration": 2784,
+        "shot": 1799984
+    },
+    {
+        "backend": "cairo",
+        "seed": 36,
+        "expval": -78.7086661259884,
+        "metric": 99.941044773518,
+        "duration": 2784,
+        "shot": 1799984
+    },
+    {
+        "backend": "cairo",
+        "seed": 42,
+        "expval": -78.7090072995144,
+        "metric": 99.94150341932323,
+        "duration": 2880,
+        "shot": 1799984
+    },
+    {
+        "backend": "cairo",
+        "seed": 43,
+        "expval": -78.7090045574478,
+        "metric": 99.94149973311299,
+        "duration": 2784,
+        "shot": 1799984
+    },
+    {
+        "backend": "cairo",
+        "seed": 55,
+        "expval": -78.70893523989469,
+        "metric": 99.94140654825972,
+        "duration": 2784,
+        "shot": 1799984
+    },
+    {
+        "backend": "cairo",
+        "seed": 67,
+        "expval": -78.70888747650795,
+        "metric": 99.94134233906615,
+        "duration": 2784,
+        "shot": 1799984
+    },
+    {
+        "backend": "cairo",
+        "seed": 170,
+        "expval": -78.7085351326892,
+        "metric": 99.94086867683227,
+        "duration": 2784,
+        "shot": 1799984
+    },
+    {
+        "backend": "montreal",
+        "seed": 20,
+        "expval": -78.72368909333382,
+        "metric": 99.96124042303369,
+        "duration": 5056,
+        "shot": 1799984
+    },
+    {
+        "backend": "montreal",
+        "seed": 21,
+        "expval": -78.72369548945501,
+        "metric": 99.96124902145628,
+        "duration": 5056,
+        "shot": 1799984
+    },
+    {
+        "backend": "montreal",
+        "seed": 30,
+        "expval": -78.723672194242,
+        "metric": 99.96121770527576,
+        "duration": 5056,
+        "shot": 1799984
+    },
+    {
+        "backend": "montreal",
+        "seed": 33,
+        "expval": -78.72359688531056,
+        "metric": 99.96111646610312,
+        "duration": 5056,
+        "shot": 1799984
+    },
+    {
+        "backend": "montreal",
+        "seed": 36,
+        "expval": -78.72364124558099,
+        "metric": 99.96117610042525,
+        "duration": 5056,
+        "shot": 1799984
+    },
+    {
+        "backend": "montreal",
+        "seed": 42,
+        "expval": -78.72367435230956,
+        "metric": 99.96122060640542,
+        "duration": 5056,
+        "shot": 1799984
+    },
+    {
+        "backend": "montreal",
+        "seed": 43,
+        "expval": -78.72367254817243,
+        "metric": 99.9612181810709,
+        "duration": 5056,
+        "shot": 1799984
+    },
+    {
+        "backend": "montreal",
+        "seed": 55,
+        "expval": -78.72376372050736,
+        "metric": 99.96134074570675,
+        "duration": 5056,
+        "shot": 1799984
+    },
+    {
+        "backend": "montreal",
+        "seed": 67,
+        "expval": -78.7237628958567,
+        "metric": 99.9613396371138,
+        "duration": 5056,
+        "shot": 1799984
+    },
+    {
+        "backend": "montreal",
+        "seed": 170,
+        "expval": -78.72367359101372,
+        "metric": 99.96121958298151,
+        "duration": 5056,
+        "shot": 1799984
+    },
+    {
+        "backend": "kolkata",
+        "seed": 20,
+        "expval": -78.69284127341193,
+        "metric": 99.91977113503341,
+        "duration": 3904,
+        "shot": 1799984
+    },
+    {
+        "backend": "kolkata",
+        "seed": 21,
+        "expval": -78.69286472702416,
+        "metric": 99.91980266415291,
+        "duration": 3904,
+        "shot": 1799984
+    },
+    {
+        "backend": "kolkata",
+        "seed": 30,
+        "expval": -78.6928025646231,
+        "metric": 99.91971909810127,
+        "duration": 3904,
+        "shot": 1799984
+    },
+    {
+        "backend": "kolkata",
+        "seed": 33,
+        "expval": -78.6927798942264,
+        "metric": 99.91968862187275,
+        "duration": 3904,
+        "shot": 1799984
+    },
+    {
+        "backend": "kolkata",
+        "seed": 36,
+        "expval": -78.69264268742359,
+        "metric": 99.91950417226056,
+        "duration": 3904,
+        "shot": 1799984
+    },
+    {
+        "backend": "kolkata",
+        "seed": 42,
+        "expval": -78.69292462855478,
+        "metric": 99.9198831908751,
+        "duration": 3904,
+        "shot": 1799984
+    },
+    {
+        "backend": "kolkata",
+        "seed": 43,
+        "expval": -78.69292112871624,
+        "metric": 99.9198784859782,
+        "duration": 3904,
+        "shot": 1799984
+    },
+    {
+        "backend": "kolkata",
+        "seed": 55,
+        "expval": -78.69291139159961,
+        "metric": 99.91986539619438,
+        "duration": 3904,
+        "shot": 1799984
+    },
+    {
+        "backend": "kolkata",
+        "seed": 67,
+        "expval": -78.69269186962711,
+        "metric": 99.91957028879546,
+        "duration": 3904,
+        "shot": 1799984
+    },
+    {
+        "backend": "kolkata",
+        "seed": 170,
+        "expval": -78.69213932013685,
+        "metric": 99.918827486419,
+        "duration": 3904,
+        "shot": 1799984
+    }
+]
